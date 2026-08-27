@@ -34,6 +34,13 @@ export const projects = [
     href: "https://rantpassport.com/",
   },
   {
+    tag: "MOBILE · APP STORE",
+    name: "Dora Dungeons",
+    desc: "AI-powered text-and-audio dungeon RPG live on the App Store — dynamic AI game master, voice narration, procedurally generated runs, and subscription in-app purchases.",
+    stack: ["iOS · App Store", "AI · IAP"],
+    href: "https://apps.apple.com/us/app/dora-dungeons/id6761703437",
+  },
+  {
     tag: "HEALTHCARE · LIVE",
     name: "Breakthrough Neurofeedback",
     desc: "Brain insight intake & progress tracker — instant scorecards, saved baselines, and category-vs-baseline progress over time.",
