@@ -27,6 +27,13 @@ export const services = [
 
 export const projects = [
   {
+    tag: "EMPLOYABILITY · LIVE",
+    name: "RANT.Passport",
+    desc: "Digital employability passport where users record skills, experience, learning and achievements as verifiable evidence — with jobs, opportunities, connections, and mentorship built in.",
+    stack: ["Base44", "Auth · Profiles"],
+    href: "https://rantpassport.com/",
+  },
+  {
     tag: "HEALTHCARE · LIVE",
     name: "Breakthrough Neurofeedback",
     desc: "Brain insight intake & progress tracker — instant scorecards, saved baselines, and category-vs-baseline progress over time.",
