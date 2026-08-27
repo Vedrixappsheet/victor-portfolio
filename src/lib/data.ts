@@ -62,11 +62,11 @@ export const projects = [
     href: "https://accesssolutions.emergent.host/",
   },
   {
-    tag: "HEALTHCARE",
+    tag: "HEALTHCARE · LIVE",
     name: "Berman Women's Wellness",
-    desc: "Multi-site consolidation, migration & performance optimization — 14-phase engagement.",
-    stack: ["Migration", "SEO · Perf"],
-    href: null,
+    desc: "14-phase website consolidation and rebuild for Dr. Jennifer Berman — custom service pages, diagnostic process flows, booking, and newsletter, migrated onto owned infrastructure.",
+    stack: ["Migration", "Next.js · SEO"],
+    href: "https://bermansexualhealth.com/",
   },
   {
     tag: "SOCIAL",
